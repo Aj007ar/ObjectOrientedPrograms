@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\refint\StockAccountManagement.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\StockManagement\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\ref\StockAccountManagement.dll
